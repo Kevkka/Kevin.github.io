@@ -10,7 +10,7 @@ body {
     line-height: 1.6;
 }
 
-/* Container */
+
 .container {
     max-width: 1440px;
     margin: 0 auto;
@@ -18,7 +18,7 @@ body {
     overflow: hidden;
 }
 
-/* Header */
+
 .header {
     display: flex;
     justify-content: space-between;
